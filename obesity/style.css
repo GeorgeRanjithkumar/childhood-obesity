@@ -1,0 +1,260 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: darkslategrey;
+    width: 60%;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: white;
+}
+
+.container {
+    width: 75%;
+    margin: 0 12.5% 0 12.5%;
+}
+
+.header {
+    text-align: center;
+}
+
+.obesity>h1 {
+    font-family: 'Alfa Slab One', cursive;
+}
+
+.obesity {
+    display: inline;
+    letter-spacing: 10px;
+    color: tomato;
+}
+
+.icon {
+    background-color: rgb(8, 107, 255);
+    height: 50px;
+    width: 50px;
+    top: 20px;
+    margin-left: 100px;
+    justify-content: center;
+    text-align: center;
+    border-radius: 200px;
+    border: 5px solid white;
+    font-size: 40px;
+    margin-bottom: -61px;
+    margin-top: 35px;
+    color: black;
+}
+
+.childcontainer {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.obese>h1 {
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+.obese>h2 {
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+.obese {
+    padding: 5%;
+    background-color: rgb(255, 208, 0);
+}
+
+.icons {
+    display: flex;
+    align-items: center;
+    margin-left: 60px;
+}
+
+.maleicon {
+    font-size: 50px;
+    color: black;
+}
+
+.femaleicon {
+    font-size: 50px;
+    color: black;
+}
+
+.malefatboyicon {
+    font-size: 50px;
+    color: tomato;
+}
+
+.million {
+    padding: 5%;
+    background-color: rgb(8, 107, 255);
+}
+
+.apple>h1 {
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+.million>h2 {
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+.obesity-field>h1 {
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+.obesity-field {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.obesity-linked {
+    background-color: tomato;
+    padding: 5%;
+}
+
+.icons2 {
+    display: flex;
+    justify-content: space-evenly;
+    color: black;
+}
+
+.risk-field {
+    display: flex;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.risk-field>h1 {
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+.r1 {
+    color: black;
+}
+
+.risk {
+    background-color: rgb(8, 107, 255);
+    padding: 5%;
+}
+
+.riskmng {
+    display: flex;
+    justify-content: space-around;
+}
+
+.frenchfries {
+    padding: 5%;
+    background-color: tomato;
+}
+
+.frenchfries>h1 {
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+.frenchfries>h2 {
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+.Fries {
+    font-size: 82px;
+    margin-left: 52px;
+    color: rgb(255, 208, 0);
+}
+
+.juice {
+    padding: 5%;
+    background-color: rgb(255, 208, 0);
+}
+
+.juice>h1 {
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+.juice>h2 {
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+.JUICE {
+    font-size: 82px;
+    margin-left: 52px;
+    color: tomato
+}
+
+.container1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.hd {
+    padding: 5%;
+    background-color: rgb(8, 107, 255);
+}
+
+.tv1>h1 {
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+.tv {
+    display: flex;
+    justify-content: space-around;
+}
+
+.tv-icon {
+    font-size: 69px;
+    color: black;
+}
+
+.near {
+    padding: 5%;
+    background-color: rgb(255, 208, 0);
+}
+
+.cycle1>h1 {
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+.cycle {
+    display: flex;
+    justify-content: space-around;
+}
+
+.cycle-icon {
+    font-size: 69px;
+    color: tomato;
+}
+
+.billion1 {
+    padding: 5%;
+    background-color: rgb(8, 107, 255);
+}
+
+.billion1>h1 {
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+.billion2 {
+    padding: 5%;
+    background-color: rgb(255, 208, 0);
+    font-size: 10px;
+}
+
+.billion2>h1 {
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+.billion {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.trillion {
+    font-size: 82px;
+    margin-left: 52px;
+    color: black;
+}
+
+.pre {
+    font-size: 10px;
+}
